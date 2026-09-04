@@ -1,0 +1,6 @@
+{
+  "name": "MSc Center Bhavnagar Attendance",
+  "description": "Smart attendance register with photo verification for 9th, 10th, 11th & 12th classes, percentage analytics, and privacy policy compliance at MSc Center Bhavnagar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
